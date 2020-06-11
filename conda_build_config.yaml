@@ -1,0 +1,6 @@
+channel_sources:
+  - powerai,defaults,conda-forge,https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda/
+channel_targets:
+  - conda-forge main
+c_compiler_version:
+  - 7
