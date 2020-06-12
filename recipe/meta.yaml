@@ -62,6 +62,10 @@ requirements:
     - sqlparse >=0.2.4
     - word2number >=1.1
     - jsonpickle
+    - pytorch
+    - pytorch >=1.2.0
+    - pytorch-pretrained-bert >=0.6.0
+    - cudatoolkit
 
 test:
   source_files:
